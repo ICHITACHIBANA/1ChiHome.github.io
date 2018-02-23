@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+
+body {
+  background-color: white;
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #444;
+}
+
+body3 {
+background-image: url(https://lh3.googleusercontent.com/-iVUmtmGGumc/WoxaM_iL_VI/AAAAAAAA5_U/mlao2xQMvFgH4_OJ0JRHFwWWUjftsMezwCJoC/w1060-h796-n/IMG_1062_exported_210910048.jpg);
+background-position: center center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-color:#black;
+}
+
+
+.meron { font-family: "Nico Moji"; }
+
+.min { font-family: "Hannari"; }
+
+.neko { font-family: "Nikukyu"; }
+
+.pinkneko{font-family: "Nikukyu";
+  color:pink;}
+
+.rossomelon {font-family: 'Bellefair', serif;}
+
+.greenmelon {font-family: 'Indie Flower', cursive;}
+
+h1 {
+  font-family: "Merriweather", serif;
+  font-size: 32px;
+  line-height: normal;
+}
